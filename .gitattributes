@@ -1,0 +1,10 @@
+*  text=auto
+
+*.form  text
+*.java  text
+*.properties  text
+*.xml  text
+manifest.mf  text
+
+*.jpg  binary
+*.png  binary
